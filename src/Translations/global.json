@@ -1,0 +1,12 @@
+{
+  "en": {
+    "name": "name",
+    "lastName": "lastName",
+    "rating": "rating"
+  },
+  "ge": {
+    "name": "სახელი",
+    "lastName": "გვარი",
+    "rating": "რეიტინგი"
+  }
+}

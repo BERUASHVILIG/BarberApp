@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1",
+    "firstName": "Javier",
+    "lastName": "Garcia",
+    "rating": 4.8,
+    "review": [
+      { "author": "Michelle", "score": 5, "comment": "Great haircut!" },
+      {
+        "author": "David",
+        "score": 5,
+        "comment": "Friendly service and great attention to detail."
+      }
+    ],
+    "description": "Experienced barber specializing in fades and classic haircuts.",
+    "price": 25
+  },
+  {
+    "id": "2",
+    "firstName": "Maria",
+    "lastName": "Lopez",
+    "rating": 4.5,
+    "review": [
+      {
+        "author": "John",
+        "score": 4,
+        "comment": "She did a fantastic job on my hair."
+      },
+      {
+        "author": "Lisa",
+        "score": 3,
+        "comment": "Great service, very professional."
+      }
+    ],
+    "description": "Talented barber with a focus on women's haircuts.",
+    "price": 30
+  },
+  {
+    "id": "3",
+    "firstName": "Antonio",
+    "lastName": "Gonzalez",
+    "rating": 4.2,
+    "review": [
+      {
+        "author": "Sarah",
+        "score": 4,
+        "comment": "Friendly and efficient service."
+      },
+      {
+        "author": "Mark",
+        "score": 2,
+        "comment": "Excellent attention to detail."
+      }
+    ],
+    "description": "Skilled barber with a focus on classic men's haircuts.",
+    "price": 20
+  },
+  {
+    "id": "4",
+    "firstName": "Carla",
+    "lastName": "Ramirez",
+    "rating": 4.6,
+    "review": [
+      {
+        "author": "Eric",
+        "score": 5,
+        "comment": "Great experience, would definitely recommend."
+      },
+      {
+        "author": "Sophie",
+        "score": 1,
+        "comment": "Fantastic service and very talented."
+      }
+    ],
+    "description": "Experienced barber with a focus on women's haircuts and styling.",
+    "price": 35
+  },
+  {
+    "id": "5",
+    "firstName": "Juan",
+    "lastName": "Martinez",
+    "rating": 4.4,
+    "review": [
+      {
+        "author": "Amy",
+        "score": 4,
+        "comment": "Great haircut and very friendly service."
+      },
+      {
+        "author": "Chris",
+        "score": 4,
+        "comment": "Professional and skilled barber."
+      }
+    ],
+    "description": "Talented barber specializing in men's haircuts and beard trimming.",
+    "price": 22
+  },
+  {
+    "id": "6",
+    "firstName": "Ana",
+    "lastName": "Gutierrez",
+    "rating": 4.9,
+    "review": [
+      {
+        "author": "Roberto",
+        "score": 5,
+        "comment": "Excellent service and attention to detail."
+      },
+      {
+        "author": "Kim",
+        "score": 4,
+        "comment": "Highly recommended!"
+      }
+    ],
+    "description": "Skilled barber with a focus on classic men's haircuts.",
+    "price": 20
+  },
+  {
+    "id": "7",
+    "firstName": "Pedro",
+    "lastName": "Ortega",
+    "rating": 4.2,
+    "review": [
+      {
+        "author": "Tina",
+        "score": 4,
+        "comment": "Great haircut and friendly service."
+      },
+      {
+        "author": "Adam",
+        "score": 5,
+        "comment": "Professional and talented barber."
+      }
+    ],
+    "description": "Experienced barber specializing in fades and beard trimming.",
+    "price": 24
+  },
+  {
+    "id": "8",
+    "firstName": "Lucia",
+    "lastName": "Diaz",
+    "rating": 4.7,
+    "review": [
+      {
+        "author": "Randy",
+        "score": 5,
+        "comment": "Excellent haircut and very friendly."
+      },
+      {
+        "author": "Michelle",
+        "score": 3,
+        "comment": "Great service, highly recommend."
+      }
+    ],
+    "description": "Talented barber with a focus on women's haircuts and styling.",
+    "price": 32
+  },
+  {
+    "id": "9",
+    "firstName": "Diego",
+    "lastName": "Gomez",
+    "rating": 4.3,
+    "review": [
+      {
+        "author": "Sophia",
+        "score": 5,
+        "comment": "Great service and attention to detail."
+      },
+      {
+        "author": "Steve",
+        "score": 2,
+        "comment": "Very professional and skilled."
+      }
+    ],
+    "description": "Skilled barber with a focus on classic men's haircuts and beard trimming.",
+    "price": 18
+  },
+  {
+    "id": "10",
+    "firstName": "Sofia",
+    "lastName": "Castro",
+    "rating": 4.5,
+    "review": [
+      {
+        "author": "David",
+        "score": 5,
+        "comment": "Great experience, would definitely come back."
+      },
+      {
+        "author": "Emily",
+        "score": 3,
+        "comment": "Talented barber with great attention to detail."
+      }
+    ],
+    "description": "Experienced barber specializing in women's haircuts and styling.",
+    "price": 28
+  },
+  {
+    "id": "11",
+    "firstName": "Pablo",
+    "lastName": "Hernandez",
+    "rating": 4.1,
+    "review": [
+      {
+        "author": "Lisa",
+        "score": 5,
+        "comment": "Very professional and friendly service."
+      },
+      {
+        "author": "Michael",
+        "score": 5,
+        "comment": "Great haircut, would highly recommend."
+      }
+    ],
+    "description": "Skilled barber with a focus on classic men's haircuts and beard trimming.",
+    "price": 19
+  }
+]
